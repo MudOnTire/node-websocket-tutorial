@@ -1,0 +1,12 @@
+{
+  "name": "node-websocket-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MudOnTire/node-websocket-tutorial.git",
+  "author": "MudOnTire <895157882@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
